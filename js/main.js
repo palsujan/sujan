@@ -120,5 +120,7 @@
 /*     $('body').bind('cut copy paste', function (e) {
         e.preventDefault();
     });*/
+
+    document.getElementById("year").innerHTML = new Date().getFullYear();
 })(jQuery);
 
