@@ -109,7 +109,11 @@ h1,h2,h3,h4,h5,h6,p{
 
 
 /* ================ Navigation Menu ====================*/
-
+.navbar .navbar-brand img {
+ width: 80px; 
+ padding: 5px; 
+ border-radius: 50%;
+}
 
 .navbar-light {
   display: none;
@@ -228,6 +232,7 @@ h1,h2,h3,h4,h5,h6,p{
   padding: 15px;
   padding-left: 30px;
   padding-right: 30px;
+  border-radius: 10px;
 }
 .service-box:hover{
   box-shadow: 0px 1px 13px rgba(27, 27, 27, 0.705); 
