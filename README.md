@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/sujan320" target="blank"><img src="https://img.shields.io/twitter/follow/sujan320?logo=twitter&style=for-the-badge" alt="sujan320" /></a> </p>
 
-- 🔭 I’m currently working on **TechMahindra**
+- 🔭 I’m currently working on **Allen Digital**
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [www.sujanpal.in](www.sujanpal.in)
+- 👨‍💻 All of my projects are available at [🌐 sujanpal.in](https://www.sujanpal.in)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React**
+- 💬 Ask me about **Next.js, React, TypeScript, HTML5, CSS3, JavaScript**
 
 - 📫 How to reach me **sujanpal79@gmail.com**
 
