@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Pal</h1>
-<h3 align="center">I am a seasoned web developer with 4 years of professional experience. My skill set encompasses a wide array of web technologies, including Next Js.</h3>
+<h3 align="center">I am a seasoned web developer with 4.9 years of professional experience. My skill set encompasses a wide array of web technologies, including Next Js.</h3>
 
 <p align="left"> <a href="https://twitter.com/sujan320" target="blank"><img src="https://img.shields.io/twitter/follow/sujan320?logo=twitter&style=for-the-badge" alt="sujan320" /></a> </p>
 
